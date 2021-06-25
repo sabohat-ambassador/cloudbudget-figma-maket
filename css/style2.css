@@ -1,0 +1,71 @@
+
+.intro{
+    width: 100%;
+    height: 500px;
+    padding: 94px 180px 95px 150px;
+    box-sizing: border-box;
+    
+}
+.box1{
+    width: 500px;
+    height: 400px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.word1{
+    width: 445px;
+height: 107px;
+left: 165px;
+top: 922px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 43px;
+
+color: #000000;
+
+}
+.word2{
+    width: 445px;
+height: 115px;
+left: 165px;
+top: 1053px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 140%;
+
+
+text-align: justify;
+
+color: #000000;
+
+}
+.box1 a{
+    text-decoration: none;
+    width: 71px;
+height: 20px;
+left: 165px;
+top: 1152px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 140%;
+
+text-align: justify;
+
+color: #ED4C5C;
+
+}
+.box2{
+    width: 450px;
+    height: 430px;
+    display: inline-block;
+    vertical-align: middle;
+}
